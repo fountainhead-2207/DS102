@@ -4,3 +4,4 @@ GOODREADS/
 NYT/
 Books_Sale.csv
 silver_1.csv
+*.joblib

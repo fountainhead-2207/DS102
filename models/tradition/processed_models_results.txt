@@ -1,0 +1,8 @@
+KẾT QUẢ SAU KHI XỬ LÝ ĐỦ (log, ordinal, onehot, TF-IDF, sentiment)
+
+Model      | Commercial | Popular   | Critical  | Avg F1
+-----------|------------|-----------|-----------|-------
+LOGISTIC   | 0.684     | 0.615     | 0.681     | 0.660
+RF         | 0.805     | 0.554     | 0.604     | 0.655
+SVM        | 0.701     | 0.595     | 0.653     | 0.650
+XGB        | 0.907     | 0.774     | 0.744     | 0.809
